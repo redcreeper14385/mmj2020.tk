@@ -16,11 +16,11 @@ Our Discord can be found at [this location.](https://mmj2020.tk/discord)
 - The mod must be safe for work and not contain any content which would break the Discord Community Guidelines, or the rules in #rules.
 - You may work in a team, but your team can consist of no more than 4 members, 3 of which can be devs. You may have as many artists as you like, and devs can also be artists.
 - You may not plan, code or design the mod until the window has started.
-- You may use existing assets with permission.
+- You may use existing assets with permission. <br>
 ## Guidelines
 - Try to make a specific mod rather than a general one, don't overstretch
 - Try to make something creative which will please the judges
-- Please avoid having dependencies other than Fabric API, jar-in-jar them if possible.
+- Please avoid having dependencies other than Fabric API, jar-in-jar them if possible. <br>
 ## How This Works
 The event begins on the 21st of December at midday (GMT).
 From then until midnight on the 1st of January, 2021 (GMT).
